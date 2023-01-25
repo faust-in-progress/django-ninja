@@ -1,12 +1,3 @@
-<a href="https://github.com/vitalik/django-ninja/issues/383"><img width="814" alt="SCR-20230123-m1t" src="https://user-images.githubusercontent.com/95222/214056666-585c0479-c122-4cb3-add4-b8844088ccdd.png"></a>
-
-
-
-<a href="https://github.com/vitalik/django-ninja/issues/383">^ Please read ^</a>
-
-
-
-
 <p align="center">
   <a href="https://django-ninja.rest-framework.com/"><img src="https://django-ninja.rest-framework.com/img/logo-big.png"></a>
 </p>
